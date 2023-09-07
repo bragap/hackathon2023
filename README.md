@@ -12,11 +12,11 @@ Desenvolver uma série de exercícios em Java com o objetivo de aprofundar meu c
 - 4) Área de solicitações Alfa (somente para candidatos admitidos, a ser utilizado pelos setores administrativos).
 	4.1. Solicitação / Agendamento / aprovação de concessão de Férias;
 	4.2. Solicitação / Agendamento / aprovação de rescisão;
-		4.2.1. Selecionar uma opção sendo elas: Redução de efetivo, Demissão por desempenho, Justa causa, Pedido de 		demissão, acordo legal. 
+		4.2.1. Selecionar uma opção sendo elas: Redução de efetivo, Demissão por desempenho, Justa causa, Pedido de demissão, acordo legal. 
 		4.2.2. Rank de 0 a 5 para o gerente responder o quanto recomendaria a recontratação deste profissional. 
-	4.3. Possibilidade de visualização de todas as requisições com seus respectivos o status (aguardando aprovação, aprovado e 	reprovado).
+	4.3. Possibilidade de visualização de todas as requisições com seus respectivos o status (aguardando aprovação, aprovado e reprovado).
 - 5) Cadastro das áreas e/ou equipamentos de trabalho da Alfa Engenharia – Exemplo Área do platô 5 e/ou andaimes e/ou guindastes.  
-	5.1 Campos: código da área e/ou equipamentos, descrição da área e/ou equipamentos, status da liberação da área e/ou 	equipamentos  (SIM ou NÃO) e anexo de um PDF.![image](https://github.com/bragap/hackathon2023/assets/130567453/143c06dd-f44b-4367-aec7-c091085a0739)
+	5.1 Campos: código da área e/ou equipamentos, descrição da área e/ou equipamentos, status da liberação da área e/ou equipamentos  (SIM ou NÃO) e anexo de um PDF.
 
 ## Características do Portal Externo:
 - 1) Sem autenticação.
