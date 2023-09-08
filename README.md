@@ -1,8 +1,8 @@
 # Hackathon_2023 -  Competição AlfaEngenharia 
 
 ## Objetivos:
-Desenvolver uma série de exercícios em Java com o objetivo de aprofundar meu conhecimento em Programação Orientada a Objetos (POO) e aprimorar minhas habilidades em programação modular. Estou empenhado em criar soluções mais eficientes e flexíveis por meio da aplicação desses conceitos fundamentais
- 
+Elaborar aplicações WEB, sendo um portal externo (sem senha) e um interno (com login) que poderá ser utilizado pela ALFA ENGENHARIA em suas operações em todo território nacional!
+
 ## Características do Portal Interno:
 - 1) Com autenticação.
 - 2) Visualização dos candidatos cadastrados no portal externo.
