@@ -1,4 +1,4 @@
-# Hackathon_2023 -  Competição AlfaEngenharia 
+# Hackathon_2023 -  AlfaEngenharia 
 
 ![image](https://github.com/bragap/hackathon2023/assets/130567453/607af40c-61ef-40e7-ab86-e61522f2b677)
 
